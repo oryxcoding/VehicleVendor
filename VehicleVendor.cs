@@ -18,7 +18,7 @@ namespace Oxide.Plugins
     public class VehicleVendor : RustPlugin
     {
         #region Fields
-        private readonly string _permission = "vechilevendor.allow";
+        private readonly string _permission = "vehiclevendor.allow";
         #endregion
 
         #region Chat Command
